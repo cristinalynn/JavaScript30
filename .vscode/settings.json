@@ -1,0 +1,4 @@
+{
+    "augment.completions.enableQuickSuggestions": false,
+    "augment.conflictingCodingAssistantCheck": false
+}
